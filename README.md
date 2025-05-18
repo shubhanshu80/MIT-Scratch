@@ -3,7 +3,7 @@
 Inspired from MIT Scratch
 ![MIT-SCRATCH OUTPUT:](https://github.com/user-attachments/assets/83300ca3-bab0-4857-82bc-ad834422036e)
 
-* ## Features:
+* # Features:
 - Drag and Drop your favourite functions to the lists
 - Move functions between lists
 - If you want to remove any function from Mid Area just drag and drop outside list
@@ -13,14 +13,14 @@ Inspired from MIT Scratch
 - Create as many as you like program lists
 - Create long programs
 
-* ## Functionality:
+* # Functionality:
 
-* # Movement Controls
+* ## Movement Controls
   1. Move in horizontal and vertical direction
   2. Rotate (Clockwise and Anti-Clockwise)
   3. Move as Per coordinate
 
-* # Interface
+* ## Interface
   1. You want your sprint to say some message
   2. Show Message for some duration
   3. Thinking ability to Sprint
@@ -29,10 +29,10 @@ Inspired from MIT Scratch
   6. Show Sprint
   7.  Hide Sprint
  
-* # Events
+* ## Events
   1. Broadcast a Message (Notification)
   
-* # Control
+* ## Control
   1. Wait for some duration
   2. Repeat certain functions for speicified amount of times
 
