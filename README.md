@@ -13,7 +13,7 @@ Inspired from MIT Scratch
 - Create as many as you like program lists
 - Create long programs
 
-* # Functionality:
+# Functionality:
 
 * ## Movement Controls
   1. Move in horizontal and vertical direction
