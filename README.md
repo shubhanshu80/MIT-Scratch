@@ -3,7 +3,7 @@
 Inspired from MIT Scratch
 ![MIT-SCRATCH OUTPUT:](https://github.com/user-attachments/assets/83300ca3-bab0-4857-82bc-ad834422036e)
 
-* ##Features:
+* ## Features:
 - Drag and Drop your favourite functions to the lists
 - Move functions between lists
 - If you want to remove any function from Mid Area just drag and drop outside list
@@ -13,7 +13,7 @@ Inspired from MIT Scratch
 - Create as many as you like program lists
 - Create long programs
 
-* ##Functionality:
+* ## Functionality:
 
 * ## Movement Controls
   1. Move in horizontal and vertical direction
