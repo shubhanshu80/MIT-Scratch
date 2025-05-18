@@ -14,12 +14,13 @@ Inspired from MIT Scratch
 - Create long programs
 
 #Functionality:
-* #### Motion
+
+* ## Movement Controls
   1. Move in horizontal and vertical direction
   2. Rotate (Clockwise and Anti-Clockwise)
-  3. Goto coordinate
+  3. Move as Per coordinate
 
-* #### Looks
+* ## Interface
   1. You want your sprint to say some message
   2. Show Message for some duration
   3. Thinking ability to Sprint
@@ -28,17 +29,17 @@ Inspired from MIT Scratch
   6. Show Sprint
   7.  Hide Sprint
  
-* #### Events
+* ## Events
   1. Broadcast a Message (Notification)
   
-* #### Control
+* ## Control
   1. Wait for some duration
   2. Repeat certain functions for speicified amount of times
 
-### Tech Stack
+## Tech Stack
 1. ReactJS
 
-#### Libraraies
+## Libraraies
 1. TailwindCSS
 2. Notistack
 3. Redux
