@@ -3,8 +3,7 @@
 # Deployment Link (Netlify):
 [MIT Scratch Project Live](https://mit-scratchproject.netlify.app/)
 
-
-[MIT-SCRATCH OUTPUT:](https://github.com/user-attachments/assets/83300ca3-bab0-4857-82bc-ad834422036e)
+![MIT-SCRATCH OUTPUT:](https://github.com/user-attachments/assets/83300ca3-bab0-4857-82bc-ad834422036e)
 
 * # Features:
 - Drag and Drop your favourite functions to the lists
