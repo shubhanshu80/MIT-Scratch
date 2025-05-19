@@ -52,3 +52,5 @@
 - cd MIT-Scratch-main
 - Run `npm start` and open http://localhost:3000 to see the app
 
+# Note:
+- using Node -v:18.18.2
