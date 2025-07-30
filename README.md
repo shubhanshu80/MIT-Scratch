@@ -1,4 +1,4 @@
-# MIT Scratch project-For JUSPAY Campus Hiring Challenge 
+# MIT Scratch Project 
 
 # Deployment Link (Netlify):
 [MIT Scratch Project Live](https://mit-scratchproject.netlify.app/)
